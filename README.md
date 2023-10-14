@@ -1,6 +1,6 @@
 # Data Analysis of 2020 Sephora Products
 ### ABOUT THIS PROJECT
-#### This is a explorative data project for one of my major classes called 'Data Wrangling and Digital Analysis'. We were allowed to choose any dataset we found on online and instructed to organize the data and use data visualization and other tools to find important trends.
+#### This is an explorative data project for one of my major classes called 'Data Wrangling and Digital Analysis'. We were allowed to choose any dataset we found on online and instructed to organize the data and use data visualization and other tools to find important trends.
 
 ### GOAL
 #### To analyze trends, discover findings to help improve Sephora's online selling strategy, and make observations and recommendations based on these findings.
