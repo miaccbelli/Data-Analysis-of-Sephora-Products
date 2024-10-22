@@ -1,4 +1,4 @@
-# Data Analysis of 2020 Sephora Products
+# Sephora Skincare and Product Analysis
 ### ABOUT THIS PROJECT
 #### This is an explorative data project for one of my major classes called 'Data Wrangling and Digital Analysis'. We were allowed to choose any dataset we found on online and instructed to organize the data and use data visualization and other tools to find important trends.
 
